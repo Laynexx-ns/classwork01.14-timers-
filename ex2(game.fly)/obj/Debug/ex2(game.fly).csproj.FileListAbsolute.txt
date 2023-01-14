@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\bin\Debug\ex2(game.fly).exe.config
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\bin\Debug\ex2(game.fly).exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\bin\Debug\ex2(game.fly).pdb
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2_game.fly_.Form1.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2_game.fly_.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex2(game.fly)\obj\Debug\ex2(game.fly).pdb

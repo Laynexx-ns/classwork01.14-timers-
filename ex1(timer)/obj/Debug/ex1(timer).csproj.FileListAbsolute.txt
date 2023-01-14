@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\bin\Debug\ex1(timer).exe.config
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\bin\Debug\ex1(timer).exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\bin\Debug\ex1(timer).pdb
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1_timer_.Form1.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1_timer_.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\ex1(timer)\obj\Debug\ex1(timer).pdb
