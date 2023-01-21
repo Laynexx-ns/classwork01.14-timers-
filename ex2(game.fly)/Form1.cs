@@ -72,6 +72,18 @@ namespace ex2_game.fly_
             {
                 gametimer.Enabled = false;
             }
+            if (score <10)
+            {
+                MessageBox.Show("bad");
+            }
+            else if (score <15)
+            {
+                MessageBox.Show("cool");
+            }
+            else
+            {
+                MessageBox.Show("very nice");
+            }
         }
     }
 }
