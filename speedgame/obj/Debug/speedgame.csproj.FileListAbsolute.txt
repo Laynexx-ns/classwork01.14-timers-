@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\bin\Debug\speedgame.exe.config
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\bin\Debug\speedgame.exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\bin\Debug\speedgame.pdb
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.Form1.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.exe
+C:\Users\Анатолий\Desktop\C#\classwork01.14(timers)\speedgame\obj\Debug\speedgame.pdb
